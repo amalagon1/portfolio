@@ -1,0 +1,25 @@
+body {
+    background-color:grey;
+}
+
+header {
+    padding: 20px 35px;
+    background-color: darkcyan;
+}
+
+header h1 {
+
+}
+
+nav {
+    text-align: right;
+    color: blue;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+}
