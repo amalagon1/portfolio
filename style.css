@@ -75,12 +75,28 @@ header nav ul li a {
 }
 
 #work {
-    height: 300px;
+    height: 400px;
+    position: relative;
 }
 
 #work h2 {
     text-align: center;
     color: blue;
+}
+
+#work img {
+    height: 250px;
+    width: 250px;
+    position:absolute;
+    padding-left: 470px;
+}
+
+.horiseon {
+margin-left: 300px;
+}
+
+.github {
+float: right;
 }
 
 #contact {
