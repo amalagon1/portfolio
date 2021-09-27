@@ -4,4 +4,4 @@ This project is the first version of my professional portfolio. It is a single s
 
 website link: <https://amalagon1.github.io/portfolio/>
 
-[](images/portfolio.jpeg)
+![](images/portfolio.jpeg)
