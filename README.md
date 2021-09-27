@@ -4,4 +4,4 @@ This project is the first version of my professional portfolio. It is a single s
 
 website link: <https://amalagon1.github.io/portfolio/>
 
-<img src="assets/images/portfolio.jpeg" width="50" height="50">
+<img src="assets/images/portfolio.jpeg" width="100" height="100">
