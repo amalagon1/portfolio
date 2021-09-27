@@ -84,19 +84,18 @@ header nav ul li a {
     color: blue;
 }
 
-#work img {
+.horiseon {
     height: 250px;
     width: 250px;
-    position:absolute;
-    padding-left: 470px;
-}
-
-.horiseon {
-margin-left: 300px;
+    margin-left: 500px;
 }
 
 .github {
 float: right;
+height: 150px;
+width: 150px;
+padding-right: 100px;
+margin-top: 40px;
 }
 
 #contact {
@@ -117,10 +116,6 @@ float: right;
 }
 .border {
     border: 2px red solid;
-}
-
-footer {
-
 }
 
 footer h2 {
