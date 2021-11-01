@@ -8,10 +8,14 @@ header {
 }
 
 header h1 {
-color:blue;
+    padding-top: 2%;
+    color:blue;
 }
 
 nav {
+    padding-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
     text-align: right;
     color: blue;
 }
@@ -74,9 +78,9 @@ header nav ul li a {
     padding: 50px 30px 0 30px;
 }
 
-#work {
-    height: 400px;
-    position: relative;
+.container {
+    display: flex;
+    justify-content: space-evenly; 
 }
 
 #work h2 {
@@ -87,15 +91,16 @@ header nav ul li a {
 .horiseon {
     height: 250px;
     width: 250px;
-    margin-left: 500px;
 }
 
 .github {
-float: right;
 height: 150px;
-width: 150px;
-padding-right: 100px;
-margin-top: 40px;
+width: 200px;
+}
+
+.app {
+height:250px;
+width: 250px;
 }
 
 #contact {
