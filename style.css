@@ -93,15 +93,16 @@ header nav ul li a {
     width: 250px;
 }
 
-.github {
-height: 150px;
+.tracker {
+height: 250px;
 width: 200px;
 }
 
 .app {
 height:250px;
-width: 250px;
+width: 300px;
 }
+
 
 #contact {
     height: 300px;
